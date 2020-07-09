@@ -12,13 +12,12 @@ div {
   background: white;
   padding:30px;
 
-
-  border
   /* Your code here! */
 }
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {
+#main-header {\
+  font-size: 22px;
   /* Your code here! */
   color:red;
 }
